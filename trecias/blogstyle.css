@@ -1,0 +1,134 @@
+body{background-image: url("background.jpg" );
+    background-size: cover;}
+.header{ background-color: whitesmoke;
+height: 150px;
+width:100%;
+margin: 0px;}
+.pavadinimas{ font-family: 'Georgia';
+font-size: 70px;
+color: black;
+float: left;
+height:125px;
+width:50%;
+text-align: center;
+padding-top:25px;
+}
+.kontaktai{
+    float:right;
+    height:115px;
+    width: 25%;
+    text-align: center;
+    padding-top: 35px;
+}
+.apie{
+    float: right;
+    height:110px;
+    width: 25%;
+    
+    font-family:'Georgia';
+    text-align: center;
+    padding-top: 40px;
+    font-size: 40px;
+}
+.sakinys{
+    background-color:snow;
+    width:95%;
+    height: 70px;
+    margin-top:30px;
+   margin-left:20px;
+    text-align: center;
+    padding-top: 10px;
+    font-family:'Georgia';
+    font-size: 25px;
+}
+.patarimai{
+    background-color: snow;
+    width:95%;
+    height: 600px;
+    margin-top: 15px;
+   margin-left:20px;
+    font-family: 'Georgia';
+    font-size: 25px;
+   text-align: center;
+   padding-top: 25px;
+   margin-bottom:20px;
+   
+}
+.foto{
+    padding-top: 10px;
+  margin-left: 25%;
+  width:50%;
+}
+.kontaktai img:hover{
+	height:70px;
+}
+.foto img:hover{
+	box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.antrkvad{
+	float:right;
+	width:45%;
+	height: 770px;
+	background-color:indianred;
+	margin-top:30px;
+}
+.pirmkvad{
+	display:inline-block;
+	width:47%;
+	background-color: darksalmon;
+	margin-top:30px;
+}
+.darbai{
+	background-color:mistyrose;
+	width:95%;
+	height:225px;
+	margin-top:25px;
+    margin-left:20px;
+    
+}
+.nuotraukos{
+    height: 225px;
+    float: left;
+padding-top: 10px;
+}
+.tekstas{
+    height: 100px;
+    float: right;
+    font-family: 'Georgia';
+    text-align: center;
+    padding-top: 50px;
+    background-color: papayawhip;
+    width: 63%;
+    font-size: 30px;
+    border: 3px solid lightyellow;
+}
+.data{
+    float:right;
+    height: 35px;
+    font-family: 'Comic Sans Ms';
+    text-align: center;
+    width: 100px;
+    padding: 25px;
+}
+a:link{
+    color:black;
+    text-decoration: none;
+}
+.aprasymas{
+    width::100%;
+    background-color:snow;
+    margin-left:20%;
+    margin-right:20%;
+    margin-top:60px;
+    height:400px;
+   font-family: 'Georgia';
+   font-size: 32px;
+   padding:20px;
+}
+.bjj{
+    float: right;
+    padding:20px;
+    
+
+
+}
